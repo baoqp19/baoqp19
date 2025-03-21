@@ -25,15 +25,8 @@
 <br>
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
+<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true&theme=radical" />
-    </td>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
 </div>
+
