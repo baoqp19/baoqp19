@@ -25,11 +25,15 @@
 <br>
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true)
-
-<br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 </div>
