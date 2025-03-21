@@ -26,7 +26,7 @@
 
 <div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoqp19)](https://github.com/baoqp19/github-readme-stats)
-  <img src="https://raw.githubusercontent.com/baopq19/github-stats/master/generated/languages.svg#gh-light-mode-only?raw=true" alt="Top Languages" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baoqp19&repo=github-readme-stats)](https://github.com/baoqp19/github-readme-stats)
 </div>
 
 <br><br>
