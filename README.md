@@ -29,6 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true)
 
+<br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact)
 
 </div>
