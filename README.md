@@ -20,14 +20,19 @@
 <a href="https://fb.com/pqbao.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baodevco" height="30" width="40" /></a>
 </p>
 
+<hr>
 
 ### Stats
+
 <br>
+
 ### 📊 GitHub Stats
 
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" heigh="200px" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="200px"  />
 </div>
+
+<br><br>
 
