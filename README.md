@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Phạm Quốc Bảo</h1>
-<h3 align="center">FullStack Developer</h3>
+## 🌱 Hi there! I'm Pham Quoc Bao (Coi), a Software Engineer from Viet Nam <img src="/Handwave.gif" width="25">
 
-<p align="left"> <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"width="1200" alt="baodevco" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![](https://visitcount.itsvg.in/api?id=baoqp19&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning *Algorithms,Frontend,Backend*
+<img align="right" alt="GIF" src="./Progamming.gif" width="350"/>
 
-- 💬 Ask me about *Java*
+### ℹ️ About Me
 
-- 📫 How to reach me **awspractice535@gmail.com**
+- 🎓I’m currently learning *Algorithms,Frontend,Backend*
 
-- ⚡ Fun fact **I am Funny**
+- 🔭Ask me about *Java*
 
-<h3 align="left">Connect with me:</h3>
+- 💬 How to reach me **awspractice535@gmail.com**
+
+### 🤝 Connect with Me
+
 <p align="left">
 <a href="https://linkedin.com/in/baodevco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baodevco" height="30" width="40" /></a>
 <a href="https://fb.com/pqbao.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baodevco" height="30" width="40" /></a>
@@ -26,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true&theme=radical" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" />
 </div>
 
