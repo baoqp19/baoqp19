@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" height="200px"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="200px"  />
 </div>
 
