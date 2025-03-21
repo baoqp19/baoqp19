@@ -25,8 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/baopq19/github-stats/master/generated/overview.svg#gh-light-mode-only?raw=true" alt="GitHub Stats Overview" />
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baoqp19)](https://github.com/baoqp19/github-readme-stats)
   <img src="https://raw.githubusercontent.com/baopq19/github-stats/master/generated/languages.svg#gh-light-mode-only?raw=true" alt="Top Languages" />
 </div>
 
