@@ -26,8 +26,8 @@
 ### 📊 GitHub Stats
 
 <br>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" heigh="200px" width="150px"  />
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" heigh="200px" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="200px"  />
 </div>
 
