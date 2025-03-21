@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=baoqp19&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
-<img align="right" alt="GIF" src=".img/Progamming.gif" width="350"/>
+<img align="right" alt="GIF" src="./img/Progamming.gif" width="350"/>
 
 ### ℹ️ About Me
 
@@ -25,7 +25,7 @@
 
 <br>
 ### 📊 GitHub Stats
-
+<br>
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" height="200px"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="200px"  />
