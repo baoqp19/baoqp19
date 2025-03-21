@@ -29,10 +29,12 @@
 ### 📊 GitHub Stats
 
 <br>
-<div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" heigh="210px" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="210px"  />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=baoqp19&show_icons=true" height="210px"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoqp19&layout=compact" height="210px"/></td>
+  </tr>
+</table>
 
 <br><br>
 
