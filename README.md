@@ -7,7 +7,7 @@
 
 ### ℹ️ About Me
 
-- 🎓I’m currently learning *Algorithms,Frontend,Backend*
+- 🎓I’m currently learning *Backend,Frontend,AI*
 
 - 🔭Ask me about *Java*
 
