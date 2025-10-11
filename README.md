@@ -1,4 +1,4 @@
-## 🌱 Hi there! I'm Pham Quoc Bao (Coi), a Software Engineer from Viet Nam <img src="/Handwave.gif" width="25">
+## 🌱 Hi there! I'm Pham Quoc Bao (Coi), a Software Engineer <img src="/Handwave.gif" width="25">
 
 
 [![](https://visitcount.itsvg.in/api?id=baoqp19&label=Profile%20Views&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
@@ -7,7 +7,7 @@
 
 ### ℹ️ About Me
 
-- 🎓I’m currently learning *Backend,Frontend,AI*
+- 🎓I’m currently learning *Backend, Frontend, AI*
 
 - 🔭Ask me about *Java*
 
